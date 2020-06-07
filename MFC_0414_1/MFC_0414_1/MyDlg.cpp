@@ -32,7 +32,7 @@ void MyDlg::DoDataExchange(CDataExchange* pDX)
 
 
 BEGIN_MESSAGE_MAP(MyDlg, CDialogEx)
-	ON_BN_CLICKED(IDC_BUTTON2, &MyDlg::OnBnClickedButton2)
+	//ON_BN_CLICKED(IDC_BUTTON2, &MyDlg::OnBnClickedButton2)
 END_MESSAGE_MAP()
 
 
